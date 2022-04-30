@@ -1,0 +1,1 @@
+print("Value to be Encrypted:	",ord('Z'))

@@ -1,0 +1,11 @@
+The Internet Connection in this generation is so powerful 
+and very useful to everyone; many banks are now using the 
+internet connection to efficiently serve their client by 
+online banking and transactions and also by using debit 
+and credit cards, but the process of validation of these 
+cards really accurate and efficient by using the mod 10 
+algorithmsY Is it more secured, efficient, and accurate 
+than the mod 26Y And is it really secured to useY Sometimes 
+the credit card holder thinks that their credit card number 
+are just random number but, in that numbers, there is a 
+hidden mathematical digit and an encrypted code or mathematical digits.
